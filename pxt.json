@@ -10,6 +10,8 @@
         "main.ts",
         "README.md",
         "main.py",
+        "custom.cc.py",
+        "custom.cc.ts"
     ],
     "testFiles": [
         "test.ts"
